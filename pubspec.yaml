@@ -1,0 +1,7 @@
+name:  oauth2_example
+description:  A sample application
+dependencies:
+  http: { git: git://github.com/financeCoding/pkg_http_dart.git }
+#dependencies:
+#  js: any
+#  unittest: { sdk: unittest }
